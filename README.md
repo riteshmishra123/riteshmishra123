@@ -12,7 +12,7 @@
 - 📫 How to reach me **mritesh9085@gmail.com**
 
 - ⚡ Fun fact **Haha, nice! 😆 So, do you enjoy Bhojpuri music, or was that just a fun random fact? Who’s your favorite Bhojpuri singer—Khesari Lal Yadav, Pawan Singh, or someone else? 🎶🔥**
-
+<img src = "https://www.google.com/imgres?q=animation%20of%20doing%20coding&imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F02%2F78%2F37%2F47%2F360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&docid=8YZqRq27QWN2GM&tbnid=48NrI03o5kciTM&vet=12ahUKEwjymuyqj6-MAxUBXWwGHeRNL-MQM3oECHIQAA..i&w=900&h=360&hcb=2&ved=2ahUKEwjymuyqj6-MAxUBXWwGHeRNL-MQM3oECHIQAA">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-kumar-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritesh-kumar-mishra/" height="30" width="40" /></a>
